@@ -30,14 +30,15 @@
     "rxjs": "^6.5.2",
     "semantic-ui-css": "^2.2.12",
     "tslib": "^1.9.0",
-    "zone.js": "~0.9.1"
-  },
-  "devDependencies": {
+    "zone.js": "~0.9.1",
     "@types/node": "^6.0.118",
     "codelyzer": "^5.0.1",
     "dotenv": "^8.0.0",
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~3.4.5"
+  },
+  "devDependencies": {
+
   }
 }
